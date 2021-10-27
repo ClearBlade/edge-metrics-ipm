@@ -1,0 +1,9 @@
+{
+    "columns": [
+        {
+            "ColumnName": "internal_version",
+            "ColumnType": "float",
+            "PK": false
+        }
+    ]
+}
