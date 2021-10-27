@@ -1,0 +1,25 @@
+{
+    "assets": [
+        {
+            "asset_class": "services",
+            "asset_id": "testEdgeMetrics",
+            "deployment": "edge_metrics_sync",
+            "member": "edge_metrics_sync_deployment_edge_group",
+            "sync_to_edge": true,
+            "sync_to_platform": false
+        },
+        {
+            "asset_class": "libraries",
+            "asset_id": "edge_metrics",
+            "deployment": "edge_metrics_sync",
+            "member": "edge_metrics_sync_deployment_edge_group",
+            "sync_to_edge": true,
+            "sync_to_platform": false
+        }
+    ],
+    "description": "",
+    "edges": [
+        "edge"
+    ],
+    "name": "edge_metrics_sync"
+}
