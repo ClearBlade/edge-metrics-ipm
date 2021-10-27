@@ -5,7 +5,7 @@
     "image_url": "https://docs.clearblade.com/v/4/static/img/default_package.png",
     "keywords": [],
     "license": "ISC",
-    "name": "edge-metrics-ipm",
+    "name": "edge-metrics",
     "private": false,
     "version": "1.0.0",
     "main": "index.js",
