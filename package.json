@@ -1,12 +1,4 @@
 {
-    "asset_types": [
-        "Code Libraries",
-        "Code Services",
-        "Devices",
-        "Edges",
-        "Roles",
-        "Users"
-    ],
     "author": "",
     "clouds": [],
     "description": "",
@@ -15,11 +7,7 @@
     "exportRows": false,
     "gateways": [],
     "image_url": "https://docs.clearblade.com/v/4/static/img/default_package.png",
-    "keywords": [
-        "clearblade",
-        "iot",
-        "platform"
-    ],
+    "keywords": [],
     "license": "ISC",
     "name": "edge-metrics-ipm",
     "private": false,
