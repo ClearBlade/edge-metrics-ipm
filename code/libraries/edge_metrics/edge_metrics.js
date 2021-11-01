@@ -48,7 +48,7 @@ function edge_metrics(ClearBlade){
 
     function mem() {
         // Use 'free' cmd to return 'available' from 'Mem' row
-        return execCmd('free', '\\s+', 0, 'Mem:', 'available');
+        return parseInt(execCmd('free', '\\s+', 0, 'Mem:', 'available'));
     }
     
     function cpu() {
