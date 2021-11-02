@@ -77,8 +77,7 @@ function edge_metrics(ClearBlade){
         var sent = parseInt(dataUsageArr[0]);
         var received = parseInt(dataUsageArr[1].split('bytes received')[0]);
         var dataUsageObj = { sent, received };
-        log(dataUsageObj);
-        return dataUsage;
+        return dataUsageObj;
     }
     
     return {
